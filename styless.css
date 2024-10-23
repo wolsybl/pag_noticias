@@ -1,0 +1,26 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    background-color: rgb(203, 214, 224);
+}
+
+.news_container{
+    flex-wrap: wrap;
+    justify-content: space-between;
+    display: flex;
+}
+
+article{
+    margin-bottom: 24px;
+    width: 500px;
+    padding: 24px 36px;
+    background-color: rgb(186, 188, 161);
+    border-radius: 15px;
+}
+.cabecera{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+}
+
